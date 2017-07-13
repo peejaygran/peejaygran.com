@@ -8,4 +8,16 @@ $(document).ready(function(){
 			$('.pj-color-picker').css('left', '-70px');
 		}
 	});	
+
+	$('.pj-colors .color').click(function(){
+		var color = $(this).attr('pj-color');
+
+		if(color == "blue") {
+			$('#pj-theme-color').attr('href', 'assets/css/custom-blue.css');
+		} else if(color == "red") {
+			$('#pj-theme-color').attr('href', 'assets/css/custom-red.css');
+		} else if(color == "green") {
+			$('#pj-theme-color').attr('href', 'assets/css/custom-green.css');
+		}
+	});
 });

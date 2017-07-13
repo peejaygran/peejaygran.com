@@ -3,9 +3,9 @@
 {% block content %}
 	<section class="pj-color-picker">
 		<div class="pj-colors">
-			<div class="blue" pj-color="blue"></div>
-			<div class="green" pj-color="green"></div>
-			<div class="red" pj-color="red"></div>
+			<div class="color blue" pj-color="blue"></div>
+			<div class="color green" pj-color="green"></div>
+			<div class="color red" pj-color="red"></div>
 		</div>
 		<div class="pj-color-control">
 			<img src="assets/img/color-wheel.png" class="img-responsive">

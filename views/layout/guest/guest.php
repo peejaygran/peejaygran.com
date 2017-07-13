@@ -10,8 +10,9 @@
 
         <title>Peejay | Portfolio</title>
 		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-		<link class="pj-custom-css" rel="stylesheet" type="text/css" href="assets/css/custom-green.css">
-		<link class="pj-custom-css" rel="stylesheet" type="text/css" href="assets/css/responsive.css">
+		<link id="pj-theme-color" rel="stylesheet" type="text/css" href="assets/css/custom-green.css">
+		<link id="pj-custom-css" rel="stylesheet" type="text/css" href="assets/css/style.css">
+		<link id="pj-resposnive-css" rel="stylesheet" type="text/css" href="assets/css/responsive.css">
 		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	</head>
     <body>
@@ -26,13 +27,13 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<div class="collapse navbar-collapse" id="pj-nav-menu-container">
+						<div class="collapse navbar-collapse ia-smooth-scroll" id="pj-nav-menu-container">
 							<ul class="pj-nav-menu nav navbar-nav navbar-right">
-								<a section-target="#pj-1st-section" class="active"><li class="active">HOME</li></a>
-								<a section-target="#pj-2nd-section"><li>ABOUT</li></a>
-								<a section-target="#pj-3rd-section"><li>SKILLS</li></a>
-								<a section-target="#pj-4th-section"><li>PORTFOLIO</li></a>
-								<a section-target="#pj-5th-section"><li>CONTACT</li></a>
+								<li class="active"><a href="#pj-1st-section">HOME</a></li>
+								<li><a href="#pj-2nd-section">ABOUT</a></li>
+								<li><a href="#pj-3rd-section">SKILLS</a></li>
+								<li><a href="#pj-4th-section">PORTFOLIO</a></li>
+								<li><a href="#pj-5th-section">CONTACT</a></li>
 							</ul>
 						</div>
 					</div>
@@ -45,6 +46,7 @@
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 		<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 		<script type="text/javascript" src="assets/addons/jquery/circle-progress.min.js"></script>
+		<script type="text/javascript" src="assets/js/smooth-scroll.js"></script>
 		<script type="text/javascript" src="assets/js/custom.js"></script>
 	
 	</body>
