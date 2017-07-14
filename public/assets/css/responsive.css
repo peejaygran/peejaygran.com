@@ -61,6 +61,10 @@
 	/* Navigation */
 	ul.pj-nav-menu { display: block; }
 	ul.pj-nav-menu>a { display: block; }
+
+	/* My Skills */
+	.logo-container { height: 100px; }
+	.pj-3rd-section .row [class*="col-"] { width: 100%; }
 }
 
 /*--------------------------------------------------------------

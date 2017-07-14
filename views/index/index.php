@@ -13,7 +13,7 @@
 	</section>
 	<section id="pj-1st-section" class="container-fluid pj-1st-section">
 		<div class="pj-photo"></div>
-		<h1>Peejay Gran Siose Bogal III</h1>
+		<h1>Peejay Gran Bogal III</h1>
 		<br>
 		<p>Develop new applications from beginning to end. Maintain existing applications. Innovates data visualization and presentation technique. Create code that meets system standards. Analyzes methods to efficiently address software system requirements.</p>
 		<br><br>
@@ -51,47 +51,43 @@
 			<br>
 			<br>
 			<div class="row">
-				<div class="col-md-2 col-sm-4 col-xs-6">
-					<div class="skills-bar" data-value="0.75" data-size="100" data-fill=" &quot;rgba(255,255,255,1) &quot;" data-reverse="false" ><strong></strong><h4 class="jg-center jg-bold jg-orange">BACK-END</h4></div>
+				<div class="col-md-3 col-sm-4 col-xs-6">
+					<div class="logo-container"><img src="assets/img/logo/angular.png" class="img-responsive" /></div>
 				</div>
-				<div class="col-md-2 col-sm-4 col-xs-6">
-					<div class="skills-bar" data-value="0.68" data-size="100" data-fill=" &quot;rgba(255,255,255,1) &quot;" data-reverse="false" ><strong></strong><h4 class="jg-center jg-bold jg-orange">UI/UX</h4></div>
+				<div class="col-md-3 col-sm-4 col-xs-6">
+					<div class="logo-container"><img src="assets/img/logo/aws.png" class="img-responsive" /></div>
 				</div>
-				<div class="col-md-2 col-sm-4 col-xs-6">
-					<div class="skills-bar" data-value="0.50" data-size="100" data-fill=" &quot;rgba(255,255,255,1) &quot;" data-reverse="false" ><strong></strong><h4 class="jg-center jg-bold jg-orange">FRAMEWORKS</h4></div>
+				<div class="col-md-3 col-sm-4 col-xs-6">
+					<div class="logo-container"><img src="assets/img/logo/bootstrap.png" class="img-responsive" /></div>
 				</div>
-				<div class="col-md-2 col-sm-4 col-xs-6">
-					<div class="skills-bar" data-value="0.95" data-size="100" data-fill=" &quot;rgba(255,255,255,1) &quot;" data-reverse="false" ><strong></strong><h4 class="jg-center jg-bold jg-orange">WEBMASTER</h4></div>
+				<div class="col-md-3 col-sm-4 col-xs-6">
+					<div class="logo-container"><img src="assets/img/logo/cpanel.png" class="img-responsive" /></div>
 				</div>
-				<div class="col-md-2 col-sm-4 col-xs-6">
-					<div class="skills-bar" data-value="0.80" data-size="100" data-fill=" &quot;rgba(255,255,255,1) &quot;" data-reverse="false" ><strong></strong><h4 class="jg-center jg-bold jg-orange">MOBILE</h4></div>
+				<div class="col-md-3 col-sm-4 col-xs-6">
+					<div class="logo-container"><img src="assets/img/logo/css3.png" class="img-responsive" /></div>
 				</div>
-				<div class="col-md-2 col-sm-4 col-xs-6">
-					<div class="skills-bar" data-value="1" data-size="100" data-fill=" &quot;rgba(255,255,255,1) &quot;" data-reverse="false" ><strong></strong><h4 class="jg-center jg-bold jg-orange">GENERAL</h4></div>
+				<div class="col-md-3 col-sm-4 col-xs-6">
+					<div class="logo-container"><img src="assets/img/logo/git.png" class="img-responsive" /></div>
 				</div>
-			</div>
-			<p></p>
-			<div class="row">
-				<div class="col-md-2 col-sm-4 col-xs-6">
-					<div class="skills-bar" data-value="0.75" data-size="100" data-fill=" &quot;rgba(255,255,255,1) &quot;" data-reverse="false" ><strong></strong><h4 class="jg-center jg-bold jg-orange">BACK-END</h4></div>
+				<div class="col-md-3 col-sm-4 col-xs-6">
+					<div class="logo-container"><img src="assets/img/logo/html5.png" class="img-responsive" /></div>
 				</div>
-				<div class="col-md-2 col-sm-4 col-xs-6">
-					<div class="skills-bar" data-value="0.68" data-size="100" data-fill=" &quot;rgba(255,255,255,1) &quot;" data-reverse="false" ><strong></strong><h4 class="jg-center jg-bold jg-orange">UI/UX</h4></div>
+				<div class="col-md-3 col-sm-4 col-xs-6">
+					<div class="logo-container"><img src="assets/img/logo/javascript.png" class="img-responsive" /></div>
 				</div>
-				<div class="col-md-2 col-sm-4 col-xs-6">
-					<div class="skills-bar" data-value="0.50" data-size="100" data-fill=" &quot;rgba(255,255,255,1) &quot;" data-reverse="false" ><strong></strong><h4 class="jg-center jg-bold jg-orange">FRAMEWORKS</h4></div>
+				<div class="col-md-3 col-sm-4 col-xs-6">
+					<div class="logo-container"><img src="assets/img/logo/mysql.png" class="img-responsive" /></div>
 				</div>
-				<div class="col-md-2 col-sm-4 col-xs-6">
-					<div class="skills-bar" data-value="0.95" data-size="100" data-fill=" &quot;rgba(255,255,255,1) &quot;" data-reverse="false" ><strong></strong><h4 class="jg-center jg-bold jg-orange">WEBMASTER</h4></div>
+				<div class="col-md-3 col-sm-4 col-xs-6">
+					<div class="logo-container"><img src="assets/img/logo/php2.png" class="img-responsive" /></div>
 				</div>
-				<div class="col-md-2 col-sm-4 col-xs-6">
-					<div class="skills-bar" data-value="0.80" data-size="100" data-fill=" &quot;rgba(255,255,255,1) &quot;" data-reverse="false" ><strong></strong><h4 class="jg-center jg-bold jg-orange">MOBILE</h4></div>
+				<div class="col-md-3 col-sm-4 col-xs-6">
+					<div class="logo-container"><img src="assets/img/logo/slim.png" class="img-responsive" /></div>
 				</div>
-				<div class="col-md-2 col-sm-4 col-xs-6">
-					<div class="skills-bar" data-value="1" data-size="100" data-fill=" &quot;rgba(255,255,255,1) &quot;" data-reverse="false" ><strong></strong><h4 class="jg-center jg-bold jg-orange">GENERAL</h4></div>
+				<div class="col-md-3 col-sm-4 col-xs-6">
+					<div class="logo-container"><img src="assets/img/logo/wordpress.png" class="img-responsive" /></div>
 				</div>
 			</div>
-			<br>
 		</div>
 	</section>
 	<section id="pj-4th-section" class="container-fluid pj-4th-section">
@@ -384,7 +380,7 @@
 			</ul>
 		</div>
 		<div class="pj-bottom-footer">
-		
+			<div class="text-center">Copyright 2017</div>
 		</div>
 	</footer>
 {% endblock content %}

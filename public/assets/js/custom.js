@@ -20,4 +20,15 @@ $(document).ready(function(){
 			$('#pj-theme-color').attr('href', 'assets/css/custom-green.css');
 		}
 	});
+
+	var scrollTop = 0;
+	$(window).scroll(function(){
+		scrollTop = $(window).scrollTop();
+
+		if(scrollTop >= 100) {
+			$('.pj-header').addClass('scrolled');
+		} else if(scrollTop < 100) {
+			$('.pj-header').removeClass('scrolled');
+		}
+	});
 });

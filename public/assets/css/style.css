@@ -30,11 +30,23 @@ body {
 	height: 150px; 
 	margin: 0px auto;
 }
+.pj-header {
+	transition: background-color .5s ease-in-out;
+}
+.pj-header.scrolled {
+	background-color: #dedede;
+}
 .pj-header ul>li>a {
 	display: inline-block;
     padding: 20px;
     color: #fff;
     font-weight: bold;
+}
+.pj-header.scrolled ul>li>a {
+	color: #000;
+}
+.pj-header ul>li>a:hover {
+	color: #000;
 }
 .pj-btn-white {
 	border: 1px solid #fff;
@@ -116,6 +128,17 @@ body {
     font-size: 25px;
     color: #fff;
     right: 0px;
+}
+.logo-container {
+	height: 150px;
+}
+.logo-container .img-responsive {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	height: 100%;
+	width: auto;
 }
 .pj-4th-section {
 	background: url('../img/portfolio-bg.png');
