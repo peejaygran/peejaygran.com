@@ -17,7 +17,7 @@
 		<br>
 		<p>Develop new applications from beginning to end. Maintain existing applications. Innovates data visualization and presentation technique. Create code that meets system standards. Analyzes methods to efficiently address software system requirements.</p>
 		<br><br>
-		<a href="https://www.dropbox.com/s/oiaa4z0okeh8z8e/Peejay%20Gran%20Bogal%20III%20Resume.pdf?dl=0" class="btn pj-btn-white" target="_blank">DOWNLOAD MY RESUME</a>
+		<a href="https://drive.google.com/open?id=12cH-t-PXtafYiZ2Umr8okVOkrDZmVqBZ" class="btn pj-btn-white" target="_blank">DOWNLOAD MY RESUME</a>
 	</section>
 	<section id="pj-2nd-section" class="container-fluid pj-2nd-section">
 		<div class="container">
@@ -28,15 +28,14 @@
 				<hr>
 			</div>
 			<br>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi placerat vulputate ex, et egestas ex eleifend non. Donec eget pellentesque odio, in dictum nibh. Pellentesque id luctus enim, id commodo nunc. Ut urna libero, volutpat quis ex ac, vestibulum pulvinar nunc. Nam ex nunc, tempus dignissim hendrerit id, consectetur id magna. Quisque nibh risus, rutrum id eleifend ac, scelerisque ut enim. Phasellus hendrerit luctus ligula, ut blandit elit facilisis nec. Quisque quis sem ultricies, tempus ex vel, accumsan velit. Aliquam consequat odio sed mi sodales, non mollis dolor dapibus. Phasellus at tristique metus, quis luctus est. Aliquam varius, nulla quis feugiat blandit, leo elit pretium diam, sit amet fringilla metus velit eu nunc. Quisque id ullamcorper mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus vel efficitur ante.</p>
+			<p>Hi. I am Peejay Bogal an experience Core PHP, JavaScript, Jquery, Ajax, HTML5 CSS3 Responsive, Cpanel Management, SSH, Server Configuration, Cloud and Dedicated Server Management (AWS, WHM/CPanel, Vultr Servers, Digital Ocean), Private Blogging Network development, SEO, Link Building, Web 2.0, ClickFunnels, Infusionsoft, Google analytics, Webmaster Tools and custom WordPress development. I also worked with plugin development and modification. I also have experiences in using Advance Custom Field manipulation for WordPress Multisite and Woocommerce. Also, I am very experienced in using Divi Theme Builder, and Visual Composer. I also have experiences in Custom PHP Development and MVC Framework Development using PHP SLIM, Code Igniter and Laravel. I've worked on many projects from the past, most are e-commerce sites and I am confident that I could deliver the kind of working skills that you wanted to have.</p>
 			<br>
 			<ul class="pj-social-links">
 				<a href="#"><li><span class="fa fa-facebook"></span></li></a>
-				<a href="#"><li><span class="fa fa-twitter"></span></li></a>
-				<a href="#"><li><span class="fa fa-linkedin"></span></li></a>
-				<a href="#"><li><span class="fa fa-dribbble"></span></li></a>
-				<a href="#"><li><span class="fa fa-google-plus"></span></li></a>
-				<a href="#"><li><span class="fa fa-pinterest-p"></span></li></a>
+				<a href="https://twitter.com/peejaygran" target="_blank"><li><span class="fa fa-twitter"></span></li></a>
+				<a href="https://www.linkedin.com/in/peejaygran" target="_blank"><li><span class="fa fa-linkedin"></span></li></a>	
+				<a href="#"><li><span class="fa fa-instagram"></span></li></a>
+				<a href="https://plus.google.com/+PeejayGran" target="_blank"><li><span class="fa fa-google-plus"></span></li></a>
 			</ul>	
 		</div>
 	</section>
@@ -99,7 +98,7 @@
 				<hr>
 			</div>
 			<br>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi placerat vulputate ex, et egestas ex eleifend non. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi placerat vulputate ex, et egestas ex eleifend non. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi placerat vulputate ex, et egestas ex eleifend non.</p>
+			<p>Here are some projects that I worked and being outsourced to me </p>
 			<br>
 			<br>
 			<div id="pj-skills-carousel" class="hidden-xs carousel slide" data-ride="carousel">
@@ -118,11 +117,11 @@
 					<div class="row">
 						<div class="col-xs-4 col-sm-4">
 							<article class="portfolio-item">
-								<img src="assets/img/portfolio-item-1.png" class="img-responsive" alt="Portfolio 1">
+								<img src="assets/img/mounirlazzez.png" class="img-responsive" alt="Portfolio 1">
 								<div class="pj-portfolio-detail">
-									<h2>PURE SMILE AUSTRALIA</h2>
+									<h2>Mounirlazzez</h2>
 									<br style="width:100%;">
-									<a href="#" class="btn pj-btn-white">VIEW</a>
+									<a href="http://mounirlazzez.com/" target="_blank" class="btn pj-btn-white">VIEW</a>
 								</div>
 							</article>
 						</div>
@@ -132,17 +131,85 @@
 								<div class="pj-portfolio-detail">
 									<h2>AIM HIRE AUSTRALIA</h2>
 									<br style="width:100%;">
-									<a href="#" class="btn pj-btn-white">VIEW</a>
+									<a href="http://aimhire.com.au/" target="_blank" class="btn pj-btn-white">VIEW</a>
 								</div>
 							</article>
 						</div>
 						<div class="col-xs-4 col-sm-4">
 							<article class="portfolio-item">
-								<img src="assets/img/portfolio-item-3.png" class="img-responsive" alt="Portfolio 3">
+								<img src="assets/img/talbots.png" class="img-responsive" alt="Portfolio 3">
 								<div class="pj-portfolio-detail">
-									<h2>BUCHA STEAKHOUSE DUBAI</h2>
+									<h2>Talbots Chartered Accountants</h2>
 									<br style="width:100%;">
-									<a href="#" class="btn pj-btn-white">VIEW</a>
+									<a href="http://talbots.com.au/" target="_blank" class="btn pj-btn-white">VIEW</a>
+								</div>
+							</article>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="row">
+						<div class="col-xs-4 col-sm-4">
+							<article class="portfolio-item">
+								<img src="assets/img/cure.png" class="img-responsive" alt="Portfolio 1">
+								<div class="pj-portfolio-detail">
+									<h2>Cure</h2>
+									<br style="width:100%;">
+									<a href="http://www.cure.ae/" target="_blank" class="btn pj-btn-white">VIEW</a>
+								</div>
+							</article>
+						</div>
+						<div class="col-xs-4 col-sm-4">
+							<article class="portfolio-item">
+								<img src="assets/img/infusefruit.png" class="img-responsive" alt="Portfolio 2">
+								<div class="pj-portfolio-detail">
+									<h2>Infusefruit</h2>
+									<br style="width:100%;">
+									<a href="http://www.infusefruit.com/" target="_blank" class="btn pj-btn-white">VIEW</a>
+								</div>
+							</article>
+						</div>
+						<div class="col-xs-4 col-sm-4">
+							<article class="portfolio-item">
+								<img src="assets/img/bukhashbrothers.png" class="img-responsive" alt="Portfolio 3">
+								<div class="pj-portfolio-detail">
+									<h2>Bukhash Brothers</h2>
+									<br style="width:100%;">
+									<a href="http://www.bukhashbrothers.ae/" target="_blank" class="btn pj-btn-white">VIEW</a>
+								</div>
+							</article>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="row">
+						<div class="col-xs-4 col-sm-4">
+							<article class="portfolio-item">
+								<img src="assets/img/manningham-businesses.png" class="img-responsive" alt="Portfolio 1">
+								<div class="pj-portfolio-detail">
+									<h2>Manningham Business</h2>
+									<br style="width:100%;">
+									<a href="http://manninghambusiness.com.au/" target="_blank" class="btn pj-btn-white">VIEW</a>
+								</div>
+							</article>
+						</div>
+						<div class="col-xs-4 col-sm-4">
+							<article class="portfolio-item">
+								<img src="assets/img/consultrix.png" class="img-responsive" alt="Portfolio 2">
+								<div class="pj-portfolio-detail">
+									<h2>Consultrix Australia</h2>
+									<br style="width:100%;">
+									<a href="http://consultrix.com.au/" target="_blank" class="btn pj-btn-white">VIEW</a>
+								</div>
+							</article>
+						</div>
+						<div class="col-xs-4 col-sm-4">
+							<article class="portfolio-item">
+								<img src="assets/img/liquidationprofessionals.png" class="img-responsive" alt="Portfolio 3">
+								<div class="pj-portfolio-detail">
+									<h2>Liquidation Professionals</h2>
+									<br style="width:100%;">
+									<a href="http://liquidationprofessionals.com.au/ " target="_blank" class="btn pj-btn-white">VIEW</a>
 								</div>
 							</article>
 						</div>
@@ -154,9 +221,9 @@
 							<article class="portfolio-item">
 								<img src="assets/img/portfolio-item-1.png" class="img-responsive" alt="Portfolio 1">
 								<div class="pj-portfolio-detail">
-									<h2>Portfolio Name 1</h2>
+									<h2>Pure Smile</h2>
 									<br style="width:100%;">
-									<a href="#" class="btn pj-btn-white">VIEW</a>
+									<a href="https://www.puresmile.com.au/" target="_blank" class="btn pj-btn-white">VIEW</a>
 								</div>
 							</article>
 						</div>
@@ -166,7 +233,7 @@
 								<div class="pj-portfolio-detail">
 									<h2>Portfolio Name 2</h2>
 									<br style="width:100%;">
-									<a href="#" class="btn pj-btn-white">VIEW</a>
+									<a href="#"  target="_blank" class="btn pj-btn-white">VIEW</a>
 								</div>
 							</article>
 						</div>
@@ -176,75 +243,7 @@
 								<div class="pj-portfolio-detail">
 									<h2>Portfolio Name 3</h2>
 									<br style="width:100%;">
-									<a href="#" class="btn pj-btn-white">VIEW</a>
-								</div>
-							</article>
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<div class="row">
-						<div class="col-xs-4 col-sm-4">
-							<article class="portfolio-item">
-								<img src="assets/img/portfolio-item-1.png" class="img-responsive" alt="Portfolio 1">
-								<div class="pj-portfolio-detail">
-									<h2>Portfolio Name 1</h2>
-									<br style="width:100%;">
-									<a href="#" class="btn pj-btn-white">VIEW</a>
-								</div>
-							</article>
-						</div>
-						<div class="col-xs-4 col-sm-4">
-							<article class="portfolio-item">
-								<img src="assets/img/portfolio-item-2.png" class="img-responsive" alt="Portfolio 2">
-								<div class="pj-portfolio-detail">
-									<h2>Portfolio Name 2</h2>
-									<br style="width:100%;">
-									<a href="#" class="btn pj-btn-white">VIEW</a>
-								</div>
-							</article>
-						</div>
-						<div class="col-xs-4 col-sm-4">
-							<article class="portfolio-item">
-								<img src="assets/img/portfolio-item-3.png" class="img-responsive" alt="Portfolio 3">
-								<div class="pj-portfolio-detail">
-									<h2>Portfolio Name 3</h2>
-									<br style="width:100%;">
-									<a href="#" class="btn pj-btn-white">VIEW</a>
-								</div>
-							</article>
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<div class="row">
-						<div class="col-xs-4 col-sm-4">
-							<article class="portfolio-item">
-								<img src="assets/img/portfolio-item-1.png" class="img-responsive" alt="Portfolio 1">
-								<div class="pj-portfolio-detail">
-									<h2>Portfolio Name 1</h2>
-									<br style="width:100%;">
-									<a href="#" class="btn pj-btn-white">VIEW</a>
-								</div>
-							</article>
-						</div>
-						<div class="col-xs-4 col-sm-4">
-							<article class="portfolio-item">
-								<img src="assets/img/portfolio-item-2.png" class="img-responsive" alt="Portfolio 2">
-								<div class="pj-portfolio-detail">
-									<h2>Portfolio Name 2</h2>
-									<br style="width:100%;">
-									<a href="#" class="btn pj-btn-white">VIEW</a>
-								</div>
-							</article>
-						</div>
-						<div class="col-xs-4 col-sm-4">
-							<article class="portfolio-item">
-								<img src="assets/img/portfolio-item-3.png" class="img-responsive" alt="Portfolio 3">
-								<div class="pj-portfolio-detail">
-									<h2>Portfolio Name 3</h2>
-									<br style="width:100%;">
-									<a href="#" class="btn pj-btn-white">VIEW</a>
+									<a href="http://butchasteakhouse.com/" target="_blank" class="btn pj-btn-white">VIEW</a>
 								</div>
 							</article>
 						</div>
@@ -374,13 +373,14 @@
 		<div class="container">
 			<ul class="pj-footer-social-icons">
 				<a href="#"><li><span class="fa fa-facebook"></span></li></a>
-				<a href="#"><li><span class="fa fa-twitter"></span></li></a>
+				<a href="https://twitter.com/peejaygran"><li><span class="fa fa-twitter"></span></li></a>
+				<a href="https://www.linkedin.com/in/peejaygran" target="_blank""><li><span class="fa fa-linkedin"></span></li></a>
 				<a href="#"><li><span class="fa fa-instagram"></span></li></a>
-				<a href="#"><li><span class="fa fa-flickr"></span></li></a>
+				<a href="https://www.linkedin.com/in/peejaygran" target="_blank""><li><span class="fa fa-google-plus"></span></li></a>
 			</ul>
 		</div>
 		<div class="pj-bottom-footer">
-			<div class="text-center">Copyright 2017</div>
+			<div class="text-center copyright">&copy; Copyright 2018</div>
 		</div>
 	</footer>
 {% endblock content %}

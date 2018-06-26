@@ -20,7 +20,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-						<a class="pj-brand navbar-brand">MY<span class="">PORTFOLIO</span></a>
+						<a class="pj-brand navbar-brand">Peejay <span class="">Gran Bogal III</span></a>
 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#pj-nav-menu-container" aria-expanded="false">
 							<span class="sr-only">Toggle navigation</span>
 							<span class="icon-bar"></span>
